@@ -24,7 +24,7 @@ int main(){
 	int num[i];
 	
 	for(i=0;i<SIZE;i++){
-		printf("Digite o %iº número: ",i+1);
+		printf("Digite o %iÂº nÃºmero: ",i+1);
 			scanf("%i",&num[i]);
 			
 			
@@ -52,11 +52,11 @@ int main(){
 	
 	printf("\n=========== M E N U ===========");
 	
-	printf("\nNúmeros Pares: %i",par);
-	printf("\nNúmeros Ímpares: %i",impar);
-	printf("\nNúmeros Positivos %i",positivo);
-	printf("\nNúmeros Negativos: %i",negativo);
-	printf("\nQuantidade de Números Inseridos: %i",i);
+	printf("\nNÃºmeros Pares: %i",par);
+	printf("\nNÃºmeros Ãmpares: %i",impar);
+	printf("\nNÃºmeros Positivos %i",positivo);
+	printf("\nNÃºmeros Negativos: %i",negativo);
+	printf("\nQuantidade de NÃºmeros Inseridos: %i",i);
 	
 		
 	return 0;
