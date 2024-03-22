@@ -25,7 +25,7 @@ int main(){
 	system("cls ||clear");
 	
 	for(i=SIZE;i>0;i--){
-		printf("\n %iº  Número Digitado: %i",i,num[i-1]);
+		printf("\n %iÂº  NÃºmero Digitado: %i",i,num[i-1]);
 		
 	}
 
