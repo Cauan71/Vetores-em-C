@@ -19,7 +19,7 @@ int main(){
 	for(i=0;i<SIZE;i++){
 	
 		
-		printf("Digite o %i número: ",i+1);
+		printf("Digite o %i nÃºmero: ",i+1);
 		scanf("%i",&num[i]);
 		contador++;
 		
@@ -71,15 +71,15 @@ int main(){
 
 	printf("\n=========== M E N U ===========");
 	
-	printf("\nNúmeros Pares: %i",par);
-	printf("\nNúmeros Ímpares: %i",impar);
-	printf("\nNúmeros Positivos %i",positivo);
-	printf("\nNúmeros Negativos: %i",negativo);
-	printf("\nQuantidade de Números Digitados: %i",i);
-	printf("\nMenor Número: %i",menorNumero);
-	printf("\nMaior Número: %i",maiorNumero);
-	printf("\nMédia Números Pares: %i",mediaPar);
-	printf("\nMédia Números Impares: %i",mediaImpar);
+	printf("\nNÃºmeros Pares: %i",par);
+	printf("\nNÃºmeros Ãmpares: %i",impar);
+	printf("\nNÃºmeros Positivos %i",positivo);
+	printf("\nNÃºmeros Negativos: %i",negativo);
+	printf("\nQuantidade de NÃºmeros Digitados: %i",i);
+	printf("\nMenor NÃºmero: %i",menorNumero);
+	printf("\nMaior NÃºmero: %i",maiorNumero);
+	printf("\nMÃ©dia NÃºmeros Pares: %i",mediaPar);
+	printf("\nMÃ©dia NÃºmeros Impares: %i",mediaImpar);
 	
 	
 
