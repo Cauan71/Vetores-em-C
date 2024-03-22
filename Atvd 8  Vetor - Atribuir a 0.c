@@ -28,7 +28,7 @@ int main(){
 	
 		for(i=0;i<SIZE;i++){
 		
-		printf("\n %iº Número Informado: %i",i+1,num[i]);
+		printf("\n %iÂº NÃºmero Informado: %i",i+1,num[i]);
 	}
 	return 0 ;
 	
