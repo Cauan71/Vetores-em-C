@@ -34,8 +34,8 @@ int main(){
 	
 	
 		for(i=0;i<SIZE;i++){
-			printf("%iº Nome : %s\n",i+1,nome[i]);
-			printf("%iº Idade: %i \n\n",i+1,idade[i]);
+			printf("%iÂº Nome : %s\n",i+1,nome[i]);
+			printf("%iÂº Idade: %i \n\n",i+1,idade[i]);
 	}
 	
 	return 0 ;
