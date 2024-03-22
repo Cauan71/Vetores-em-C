@@ -15,7 +15,7 @@ int main(){
 	
 	
 	for(i=0;i<SIZE;i++){
-	printf("Digite um número: ");
+	printf("Digite um nÃºmero: ");
 		scanf("%i",&num[i]);
 		
 		
@@ -32,9 +32,9 @@ int main(){
 	system("cls || clear");
 	
 	
-	printf("\nA soma dos Números Positivos: %i",soma);
-	printf("\nQuantidade de Números negativos: %i",negativo);
-	printf("\nQuantidade de Números Positivos: %i",positivo);
+	printf("\nA soma dos NÃºmeros Positivos: %i",soma);
+	printf("\nQuantidade de NÃºmeros negativos: %i",negativo);
+	printf("\nQuantidade de NÃºmeros Positivos: %i",positivo);
 	
 	
 	
